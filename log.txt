@@ -44,6 +44,7 @@ C:\projects\job4j_elementary\target\surefire-reports\ru.job4j.loop.FitnessTest.t
 C:\projects\job4j_elementary\target\surefire-reports\ru.job4j.loop.MortgageTest.txt
 C:\projects\job4j_elementary\target\surefire-reports\ru.job4j.loop.PrimeNumberTest.txt
 C:\projects\job4j_elementary\target\surefire-reports\ru.job4j.MainTest.txt
+C:\projects\job4j_finder\.idea\checkstyleidea-libs\readme.txt
 C:\projects\job4j_finder\log.txt
 C:\projects\job4j_tracker\.idea\checkstyleidea-libs\readme.txt
 C:\projects\job4j_tracker\target\maven-javadoc-plugin-stale-data.txt
