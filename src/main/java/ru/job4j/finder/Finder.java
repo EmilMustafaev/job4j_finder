@@ -47,7 +47,7 @@ public class Finder {
     private boolean matches(String fileName) {
         switch (searchType) {
             case "mask":
-                return fileName.matches(pattern.replace("*", ".*").replace("?", "."));
+                return fileName.matches(pattern.replace(".", "[.]").replace("*", ".*").replace("?", "."));
             case "name":
                 return fileName.equals(pattern);
             case "regex":
