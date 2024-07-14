@@ -22,7 +22,6 @@ public class Finder {
     private String searchType;
     private Path outputFile;
 
-
     public Finder(String directory, String pattern, String searchType, String outputFile) {
         this.directory = Paths.get(directory);
         this.pattern = pattern;
